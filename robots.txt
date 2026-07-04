@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fullstack-entwickler-koeln.de/sitemap.xml
